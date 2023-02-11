@@ -58,10 +58,6 @@
 
 <br/>  
 
-  
-
-<br/>  
-
 ![Profile views counter](https://komarev.com/ghpvc/?username=AdrianTandara&&style=flat-square)  
   
 
