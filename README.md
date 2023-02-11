@@ -3,13 +3,13 @@
 </div>  
   
 
-### <div align="center">Hi 🖐️! I'm Adrian and my hobby is Fullstack developer Developer.</div>  
+### <div align="center">Hi 🖐️! I'm Adrian and my hobby is Fullstack developer.</div>  
   
 
 
 
 ### Details:  
-- 🔭 I’m currently working on [Rayed MultiPlayer](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on [Rayed MultiPlayer](https://rayed.mp/)  
   
 
 - 🌱 I am currently learning the React.JS framework.  
