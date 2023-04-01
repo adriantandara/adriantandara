@@ -9,8 +9,6 @@
 
 
 ### Details:  
-- 🔭 I’m currently working on [Rayed MultiPlayer](https://rayed.mp/)  
-  
 
 - 🌱 I am currently learning the React.JS framework.  
   
