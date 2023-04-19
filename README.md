@@ -9,11 +9,8 @@
 
 
 ### Details:  
-
-- 🌱 I am currently learning the React.JS framework.  
-  
-
-- ❓ For help you can contact me on discord: **Adrian_#6651**  
+- ❓ For help you can contact me on discord: **Adrian_#6651**
+- ❓ You can contact me by email for services: adrian.tandara05@gmail.com
   
 
 <br/>  
