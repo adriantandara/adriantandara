@@ -11,6 +11,7 @@
 ### Details:  
 - ❓ For help you can contact me on discord: **Adrian_#6651**
 - ❓ You can contact me by email for services: adrian.tandara05@gmail.com
+- ❓ I am learning to work in Unity Game Development.
   
 
 <br/>  
