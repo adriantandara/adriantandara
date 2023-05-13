@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hi 🖐️! I'm Adrian and my hobby is Fullstack developer.</div>  
+### <div align="center">Hi 🖐️! I am a full stack developer.</div>  
   
 
 
