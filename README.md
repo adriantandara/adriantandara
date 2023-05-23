@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Next.JS and C# for Unity Game Development**
 
-- 👨‍💻 All of my projects are available at [soon](soon)
-
 - 💬 Ask me about **react.js, html, scss, css**
 
 - 📫 How to reach me **adrian.tandara05@gmail.com**
