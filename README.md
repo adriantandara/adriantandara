@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Next.JS and C# for Unity Game Development**
 
-- 💬 Ask me about **react.js, html, scss, css**
+- 💬 Ask me about **react.js, html, scss, css, javascript. next.js**
 
 - 📫 How to reach me **adrian.tandara05@gmail.com**
 
