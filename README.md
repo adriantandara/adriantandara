@@ -18,7 +18,7 @@
 <a href="https://fb.com/adrian.tandara.10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adrian.tandara.10" height="30" width="40" /></a>
 <a href="https://www.behance.net/tandaraadrian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="tandaraadrian" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@adrian_tnd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@adrian_tnd" height="30" width="40" /></a>
-<a href="https://discord.gg/Adrian_#6651" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Adrian_#6651" height="30" width="40" /></a>
+<a href="https://discord.gg/adriantandara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="adriantandara" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
