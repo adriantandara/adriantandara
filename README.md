@@ -6,11 +6,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adriantandara&theme=darkhub" alt="adriantandara" /></a> </p>
 
 - 🔭 I’m currently working on [Trwix Roleplay](https://trwix.ro/discord)
-- 🤝 I’m looking for help with **Empire Roleplay**
 - 🌱 I’m currently learning **Rust**
 - 💬 Ask me about **React, vue, tailwindcss, css, next.js etc...**
 - 📫 How to reach me **adrian.tandara05@gmail.com**
-- ⚡ Fun fact **I am funny**
 
 <div> <a href="https://github.com/adriantandara" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:adrian.tandara05@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
