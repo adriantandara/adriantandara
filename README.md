@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Trwix Roleplay](https://trwix.ro/discord)
 - 🌱 I’m currently learning **Rust**
-- 💬 Ask me about **React, vue, tailwindcss, css, next.js etc...**
+- 💬 Ask me about **React, Vue, Tailwind CSS, CSS, SCSS, Next and others**
 - 📫 How to reach me **adrian.tandara05@gmail.com**
 
 <div> <a href="https://github.com/adriantandara" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
