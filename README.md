@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adriantandara&theme=darkhub" alt="adriantandara" /></a> </p>
 
-- 🔭 I’m currently working on [Vespucci Romania](https://vespucci.mp/discord)
+- 🔭 I’m currently working on [Vespucci Romania](https://vespucci.mp/discord) and PolterHunt
 - 🌱 I’m currently learning **C#**
 - 💬 Ask me about **React, Vue, Tailwind CSS, CSS, SCSS, Next and others**
 - 📫 How to reach me **adriantandara2005@gmail.com**
