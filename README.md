@@ -5,8 +5,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adriantandara&theme=darkhub" alt="adriantandara" /></a> </p>
 
 - 🔭 I’m currently working on [Vespucci Romania](https://vespucci.mp/discord) and PolterHunt
-- 🌱 I’m currently learning **C#**
-- 💬 Ask me about **React, Vue, Tailwind CSS, CSS, SCSS, Next and others**
 - 📫 How to reach me **adriantandara2005@gmail.com**
 
 <div> <a href="https://github.com/adriantandara" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
