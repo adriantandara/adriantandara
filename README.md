@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on **Vespucci MultiPlayer** and **PolterHunt**.<br>- 🌱 I’m currently learning new techniques to enhance my Front-End skills.<br>- 👯 I’m looking to collaborate on projects that push the boundaries of interactive web development.<br>- 💬 Ask me about anything related to Front-End development, I love sharing knowledge!<br><br>- 📫 How to reach me:<br>- Email: adriantandara2005@gmail.com<br>- LinkedIn: [adriantandara](https://www.linkedin.com/in/adriantandara/)<br>- Instagram: [adriantandara05](https://instagram.com/adriantandara05)<br>- Discord: adriantandara
+🔭 I’m currently working on **Vespucci MultiPlayer** and **PolterHunt**.<br>- 🌱 I’m currently learning new techniques to enhance my Front-End skills.<br>- 👯 I’m looking to collaborate on projects that push the boundaries of interactive web development.<br>- 💬 Ask me about anything related to Front-End development, I love sharing knowledge!<br><br>- 📫 How to reach me:<br>- Email: adriantandara2005@gmail.com<br>- LinkedIn: [adriantandara](https://www.linkedin.com/in/adriantandara/)<br>- Instagram: [adriantandara05](https://instagram.com/adriantandara05)<br>- Discord: adriantandara
 
 
 ## 🌐 Socials:
