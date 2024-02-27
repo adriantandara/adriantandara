@@ -1,88 +1,33 @@
-# 💫 About Me:
-- 🔭 I’m currently working on **Vespucci MultiPlayer** and **PolterHunt**.
-- 🌱 I’m continuously learning to enhance my Front-End skills.
-- 👯 I’m looking to collaborate on projects pushing the boundaries of interactive web development.
-- 💬 Ask me anything related to Front-End development; I love sharing knowledge!
+[![Instagram Followers](https://img.shields.io/instagram/follow/adriantandara05?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://instagram.com/adriantandara05) &nbsp; [![GitHub followers](https://img.shields.io/github/followers/adriantandara?logo=GitHub&style=for-the-badge)](https://github.com/adriantandara) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/adriantandara?logo=github&style=for-the-badge)](https://github.com/adriantandara) &nbsp;
 
-📫 How to reach me:
-- Email: adriantandara2005@gmail.com
-- LinkedIn: [adriantandara](https://www.linkedin.com/in/adriantandara/)
-- Instagram: [adriantandara05](https://instagram.com/adriantandara05)
-- Discord: adriantandara
+# 👋 &nbsp;Hi there
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/tandaraadrian)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/adriantandara)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/adrian.tandara.10/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adriantandara05)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adriantandara)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@adriantnd_)
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/adrian_tandara)
+👨‍💻 Fullstack Developer & Enthusiast of Modern Technologies 🚀
 
-# 💻 Tech Stack:
-## Languages:
-![C#](https://img.shields.io/badge/c%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Markdown](https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+Passionate about crafting seamless digital experiences, I thrive at the intersection of cutting-edge frontend and robust backend development. With a keen eye for detail and a knack for problem-solving, I bring visions to life through clean, efficient code.
 
-## Frameworks & Libraries:
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Chakra](https://img.shields.io/badge/chakraui-4ED1C5?style=for-the-badge&logo=chakra-ui&logoColor=white)
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D?style=for-the-badge&logo=chart-dot-js&logoColor=white)
-![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
-![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB)
-![jQuery](https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next-dot-js&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![Nodemon](https://img.shields.io/badge/NODEMON-233330?style=for-the-badge&logo=nodemon&logoColor=BBDEAD)
-![PNPM](https://img.shields.io/badge/pnpm-4a4a4a?style=for-the-badge&logo=pnpm&logoColor=f69220)
-![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=for-the-badge&logo=react-hook-form&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![RollupJS](https://img.shields.io/badge/RollupJS-ef3335?style=for-the-badge&logo=rollup-dot-js&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink?style=for-the-badge&logo=sass&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket-dot-io&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Tauri](https://img.shields.io/badge/tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=FFFFFF)
-![Three.js](https://img.shields.io/badge/three.js-000000?style=for-the-badge&logo=three-dot-js&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vue.js-35495E?style=for-the-badge&logo=vue-dot-js&logoColor=4FC08D)
-![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)
-![Webpack](https://img.shields.io/badge/webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+🌐 Frontend Maestro: From responsive layouts to interactive user interfaces, I excel in leveraging the latest frontend technologies such as React.js, Vue.js, and Angular to create captivating experiences that engage and delight users.
 
-## Tools:
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-D42029?style=for-the-badge&logo=apache&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-0A0FFF?style=for-the-badge&logo=jira&logoColor=white)
+💻 Backend Virtuoso: Harnessing the power of backend technologies like Node.js, Django, and Spring Boot, I architect scalable, secure, and efficient server-side solutions that form the backbone of dynamic web applications.
 
-## Databases:
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+🎮 Game Development Aficionado: Beyond traditional web development, I indulge my creative side in the realm of game development, exploring Unity, Unreal Engine, and Godot to craft immersive gaming experiences that captivate audiences.
 
-## Design:
-![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+🛠️ Versatile Problem-Solver: Whether it's debugging complex issues, optimizing performance, or architecting scalable solutions, I thrive in challenging environments, leveraging my diverse skill set to overcome obstacles and drive projects forward.
 
-# 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adriantandara&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adriantandara&theme=dark&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adriantandara&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Let's collaborate to build innovative solutions that push boundaries and redefine possibilities. Together, we can transform ideas into reality, one line of code at a time. 💡
 
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=adriantandara&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+&nbsp;
 
-### ✍️ Random Dev Quote
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+## 🧰 &nbsp;My toolbox
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-plain.svg" alt="NodeJS" width="50" height="50"/> &nbsp;<img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/ExpressJS.png" alt="ExpressJS" width="50" height="50"/> &nbsp; <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" alt="ReactJS" width="50" height="50"/> &nbsp;<img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/NextJS.png" alt="NextJS" width="50" height="50"/> &nbsp; <img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/TailwindCSS.png" alt="TailwindCSS" width="50" height="50"/> &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="50" height="50"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="50" height="50"/> &nbsp;<img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/Github.png" alt="Github" width="50" height="50"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg" alt="HTML5" width="50" height="50"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/> &nbsp;<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>
+
+&nbsp;
+
+## 📊 &nbsp;Stats
+
+![Adrian' Github Stats](https://github-readme-stats.vercel.app/api?username=adriantandara&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adriantandara&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+
+<a rel="me" href="https://discord.gg/adriantandara">adriantandara on discord</a>
