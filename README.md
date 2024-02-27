@@ -1,4 +1,4 @@
-[![Instagram Followers](https://img.shields.io/instagram/follow/adriantandara05?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://instagram.com/adriantandara05) &nbsp; [![GitHub followers](https://img.shields.io/github/followers/adriantandara?logo=GitHub&style=for-the-badge)](https://github.com/adriantandara) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/adriantandara?logo=github&style=for-the-badge)](https://github.com/adriantandara) &nbsp;
+(https://instagram.com/adriantandara05) &nbsp; [![GitHub followers](https://img.shields.io/github/followers/adriantandara?logo=GitHub&style=for-the-badge)](https://github.com/adriantandara) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/adriantandara?logo=github&style=for-the-badge)](https://github.com/adriantandara) &nbsp;
 
 # 👋 &nbsp;Hi there
 
