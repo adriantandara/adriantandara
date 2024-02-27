@@ -1,4 +1,4 @@
-(https://instagram.com/adriantandara05) &nbsp; [![GitHub followers](https://img.shields.io/github/followers/adriantandara?logo=GitHub&style=for-the-badge)](https://github.com/adriantandara) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/adriantandara?logo=github&style=for-the-badge)](https://github.com/adriantandara) &nbsp;
+&nbsp; [![GitHub followers](https://img.shields.io/github/followers/adriantandara?logo=GitHub&style=for-the-badge)](https://github.com/adriantandara) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/adriantandara?logo=github&style=for-the-badge)](https://github.com/adriantandara) &nbsp;
 
 # 👋 &nbsp;Hi there
 
