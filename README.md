@@ -6,11 +6,11 @@
 
 Passionate about crafting seamless digital experiences, I thrive at the intersection of cutting-edge frontend and robust backend development. With a keen eye for detail and a knack for problem-solving, I bring visions to life through clean, efficient code.
 
-🌐 Frontend Maestro: From responsive layouts to interactive user interfaces, I excel in leveraging the latest frontend technologies such as React.js, Vue.js and NextJS to create captivating experiences that engage and delight users.
+🌐 Frontend: From responsive layouts to interactive user interfaces, I excel in leveraging the latest frontend technologies such as React.js, Vue.js and NextJS to create captivating experiences that engage and delight users.
 
-💻 Backend Virtuoso: Harnessing the power of backend technologies like Node.js, NestJS, and TypeScript, I architect scalable, secure, and efficient server-side solutions that form the backbone of dynamic web applications.
+💻 Backend: Harnessing the power of backend technologies like Node.js, NestJS, and TypeScript, I architect scalable, secure, and efficient server-side solutions that form the backbone of dynamic web applications.
 
-🎮 Game Development Aficionado: Beyond traditional web development, I indulge my creative side in the realm of game development, exploring Unity to craft immersive gaming experiences that captivate audiences.
+🎮 Game Development: Beyond traditional web development, I indulge my creative side in the realm of game development, exploring Unity to craft immersive gaming experiences that captivate audiences.
 
 🛠️ Versatile Problem-Solver: Whether it's debugging complex issues, optimizing performance, or architecting scalable solutions, I thrive in challenging environments, leveraging my diverse skill set to overcome obstacles and drive projects forward.
 
