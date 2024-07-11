@@ -18,9 +18,7 @@ Let's collaborate to build innovative solutions that push boundaries and redefin
 
 &nbsp;
 
-## 🧰 &nbsp;My toolbox
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,dotnet,java,react,nextjs,dart,postgresql,sequelize,mysql,expressjs,tailwind,scss,photoshop,discordjs,vue,ts,rollup,vscode,discord,github,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,dotnet,java,react,nextjs,dart,postgresql,sequelize,mysql,expressjs,tailwind,scss,photoshop,discordjs,vue,ts,rollup,vscode,discord,github,git,nodejs,gmail,aws,docker)](https://adriantandara.dev)
 
 &nbsp;
 
