@@ -2,11 +2,9 @@
 
 # 👋 &nbsp;Hi there. I'm Adrian
 
-👨‍💻 Fullstack Developer & Enthusiast of Modern Technologies 🚀
+Full-Stack Developer & Enthusiast of Modern Technologies 🚀
 
 Passionate about crafting seamless digital experiences, I thrive at the intersection of cutting-edge frontend and robust backend development. With a keen eye for detail and a knack for problem-solving, I bring visions to life through clean, efficient code.
-
-Let's collaborate to build innovative solutions that push boundaries and redefine possibilities. Together, we can transform ideas into reality, one line of code at a time. 💡
 
 &nbsp;
 
