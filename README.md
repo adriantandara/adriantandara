@@ -6,8 +6,6 @@ Full-Stack Developer & Enthusiast of Modern Technologies 🚀
 
 Passionate about crafting seamless digital experiences, I thrive at the intersection of cutting-edge frontend and robust backend development. With a keen eye for detail and a knack for problem-solving, I bring visions to life through clean, efficient code.
 
-&nbsp;
-
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,dotnet,java,react,nextjs,dart,postgresql,sequelize,mysql,expressjs,tailwind,scss,photoshop,discordjs,vue,ts,rollup,vscode,discord,github,git,nodejs,gmail,aws,docker)](https://adriantandara.dev)
 
 &nbsp;
